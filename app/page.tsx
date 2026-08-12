@@ -1,3 +1,4 @@
+"use client";
 import { useState, useEffect } from "react";
 import { Toaster } from "sonner";
 import { Scan, Send, FileText, BarChart3, Settings, Activity, Trash2 } from "lucide-react";
