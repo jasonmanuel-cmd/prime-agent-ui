@@ -5,3 +5,6 @@ out/
 .env*.local
 .vercel/
 .vercel_build_output/
+
+.vercel
+.env*
